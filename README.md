@@ -1,7 +1,7 @@
-# ⚡ DFIR Bash - Linux Digital Forensics & Incident Response Suite
+# ⚡ DFIR Shell - Linux Digital Forensics & Incident Response Suite
 
 > **Author**: [Bellk0ruh](https://github.com/Bellk0ruh)  
-> **License**: [BSD 3-Clause License](file:///d:/scripts/bash/DFIR_bash/LICENSE)  
+> **License**: [BSD 3-Clause License](file:///d:/scripts/bash/DFIR_Shell/LICENSE)  
 > **Target OS**: Linux (Ubuntu, Debian, RHEL, CentOS, Rocky, Alma, Fedora, Arch, SUSE, Alpine)  
 > **Architecture**: Inspired by `DRIF_Powershell` and engineered strictly following **RFC 3227**, **ISO/IEC 27037**, and the **MITRE ATT&CK® for Linux** framework.
 
@@ -30,7 +30,7 @@
 
 ## 🔍 Overview & Philosophy
 
-**DFIR Bash** is a modular, high-performance digital forensics, incident response triage, and threat hunting suite tailored for modern Linux endpoints, cloud workloads, and enterprise servers. 
+**DFIR Shell** is a modular, high-performance digital forensics, incident response triage, and threat hunting suite tailored for modern Linux endpoints, cloud workloads, and enterprise servers. 
 
 It automates end-to-end evidence acquisition, memory extraction, stealth rootkit detection, and forensic analysis while strictly guaranteeing **100% Read-Only / Non-Destructive** execution on the target host.
 
@@ -56,7 +56,7 @@ It automates end-to-end evidence acquisition, memory extraction, stealth rootkit
 ## 🏛 Project Architecture
 
 ```text
-d:\scripts\bash\DFIR_bash/
+d:\scripts\bash\DFIR_Shell/
 ├── DFIR-Script.sh                              # Master Orchestrator & Automated Triage Engine
 ├── LICENSE                                     # BSD 3-Clause License
 ├── README.md                                   # Master Documentation & MITRE ATT&CK Mapping
