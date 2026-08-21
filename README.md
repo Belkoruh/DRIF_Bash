@@ -1,14 +1,5 @@
 # ⚡ DFIR Bash - Linux Digital Forensics & Incident Response Suite
 
-```text
-  _____  ______ _____ _____    ____             _     
- |  __ \|  ____|_   _|  __ \  |  _ \           | |    
- | |  | | |__    | | | |__) | | |_) | __ _ ___| |__  
- | |  | |  __|   | | |  _  /  |  _ < / _` / __| '_ \ 
- | |__| | |     _| |_| | \ \  | |_) | (_| \__ \ | | |
- |_____/|_|    |_____|_|  \_\ |____/ \__,_|___/_| |_|
-```
-
 > **Author**: [Bellk0ruh](https://github.com/Bellk0ruh)  
 > **License**: [BSD 3-Clause License](file:///d:/scripts/bash/DFIR_bash/LICENSE)  
 > **Target OS**: Linux (Ubuntu, Debian, RHEL, CentOS, Rocky, Alma, Fedora, Arch, SUSE, Alpine)  
